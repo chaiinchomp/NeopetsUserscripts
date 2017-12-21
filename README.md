@@ -1,8 +1,9 @@
 # NeopetsUserscripts
 A selection of random userscripts I wrote for Neopets. 
+
 Disclaimer: I'm a Java dev by trade. If my JS coding style is atrocious... I'm sorry.
 
-## Script descriptions:
+## Scripts:
 
 ### Fierce Peophins
 What do you do if fierce peophins has eaten too much tin of olives? Who cares, but this script will automatically fill this question in for you when you go to the grumpy old king.
@@ -10,7 +11,8 @@ What do you do if fierce peophins has eaten too much tin of olives? Who cares, b
 ### SDB Better Item Removal
 Improves the UI for removing items in your SDB by adding:
 * buttons for +1, +5, or +all to the removal count text box, so you don't have to manually type it in anymore
-* a "Remove all items" button at the bottom which will remove every item from the current SDB page
+* a "Remove all items" button which will remove every item from the current SDB page
+
 
 ## TODO - Future script ideas
 
@@ -18,10 +20,19 @@ Improves the UI for removing items in your SDB by adding:
 This will automatically calculate the correct display angle at the Shenkuu Lunar Temple and highlight which moon phase you should click on.
 
 ### Vending Machine Randomizer
-Why are there so many pointless drop-downs to fill in at the Neocola and Nerkmid vending machines when they don't effect anything? This script will randomly pick some options for you.
+Why are there so many pointless drop-downs to fill in at the Neocola and Nerkmid vending machines? This script will randomly pick some options for you.
 
 ### Jokes & Wisdom Randomizer
 Same as the vending machine script, this will pick some random options for you at the Grumpy Old King and the Wise Old King so you don't have to randomly pick them yourself. 
+
+
+## How to Install
+
+1. Install the Tampermonkey addon to your browser of choice https://tampermonkey.net/
+2. Click through the folders above to find the script you want to install. Click on it to open it up.
+3. Click the "Raw" button right above the code.
+4. A new tab will pop up asking you if you want to add the script to Tampermonkey. Click Install.
+
 
 ## Contact
 
