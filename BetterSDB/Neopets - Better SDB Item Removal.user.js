@@ -23,7 +23,6 @@ buttonFunctionScripts = '<script>' +
     '    $(".replaceRemoveCount").each(function(k,v) {' +
     '        $(v).trigger("click");' +
     '    });' +
-    '    $(".submit_data").trigger("click");' +
     '}' +
     '</script>';
 
